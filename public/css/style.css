@@ -1,0 +1,40 @@
+/* Welcome */
+#welcome footer a:hover,
+#welcome footer a:active,
+#welcome footer a:focus {
+    text-decoration: none;
+}
+#signUpModal h4 {
+    color: #337ab7;
+    font-weight: bold;
+}
+/* App */
+#app-layout .navbar.navbar-inverse {
+    background-color: #337ab7;
+    border-color: transparent;
+}
+#app-layout .navbar-inverse .navbar-toggle {
+    border-color: #fff;
+}
+#app-layout .navbar-inverse .navbar-toggle:hover, 
+#app-layout .navbar-inverse .navbar-toggle:active,
+#app-layout .navbar-inverse .navbar-toggle:focus {
+    background-color: #286090;
+}
+#app-layout .navbar-brand {
+    padding: 9px 9px;
+}
+#app-layout .navbar-inverse .navbar-collapse {
+    border-color: #fff;
+}
+#app-layout .navbar-inverse .navbar-nav li a {
+    color: #fff;
+}
+#app-layout .navbar-inverse .navbar-nav .active a {
+    background-color: #286090;
+}
+#app-layout .navbar-inverse .navbar-nav li a:hover,
+#app-layout .navbar-inverse .navbar-nav li a:active,
+#app-layout .navbar-inverse .navbar-nav li a:focus {
+    background-color: #286090;
+}

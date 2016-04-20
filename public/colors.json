@@ -1,0 +1,14 @@
+{
+   "color": [
+	
+      {
+         "name": "primaryColor",
+         "value": "#337ab7"
+      },
+	
+      {
+         "name": "primaryColorDark",
+         "value": "#286090"
+      }
+   ]
+}
